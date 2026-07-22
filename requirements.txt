@@ -1,0 +1,8 @@
+streamlit>=1.31.0
+PyPDF2
+python-docx
+requests
+python-dotenv
+langchain-ollama
+langgraph
+ddgs
